@@ -8,7 +8,7 @@ Create a policy(Quote) from that account
 Policy is transferred to billing center
 
 Policy make use of rate books
-rate books-
+rate books- rating and pricing
 
 Policy has a lifecycle
 Policy is the contract for the insurance
@@ -20,3 +20,6 @@ Premium
 
 
 >>ESB for Integration - Apache Camel
+policy search, doc production , doc mgmt, payment, geospatial
+oden , cv rater
+Filenet
