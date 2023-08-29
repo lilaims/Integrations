@@ -1,0 +1,22 @@
+
+Policy Center, Billing Center, Claims Center , 
+Product Center, gateway portal , ESB for Integrations
+
+>>Policy Center - 
+Create an account
+Create a policy(Quote) from that account
+Policy is transferred to billing center
+
+Policy make use of rate books
+rate books-
+
+Policy has a lifecycle
+Policy is the contract for the insurance
+
+>>Billing Center
+Producer
+Bill
+Premium
+
+
+>>ESB for Integration - Apache Camel
