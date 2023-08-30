@@ -25,3 +25,8 @@ oden , cv rater
 Filenet
 
 With a rate book, rate tables and rate routines are managed as a group—tested, approved, and promoted through the product development lifecycle. Rating Management enables users to work with rate books effectively and efficiently. Key features include: Rate book comparison and merge to create new versions.
+
+Rate tables are used to maintain values that can vary over time. An example of a rate is a Gross Income limit based on the number of people in a household. Since rate tables can be created and maintained independently, this option allows for a more flexible approach to rates that apply to products.
+
+Definition. A rate table is a grouping of prices for transportation services. The prices (or rates) are listed by validity period in the rate table.
+
