@@ -23,3 +23,5 @@ Premium
 policy search, doc production , doc mgmt, payment, geospatial
 oden , cv rater
 Filenet
+
+With a rate book, rate tables and rate routines are managed as a group—tested, approved, and promoted through the product development lifecycle. Rating Management enables users to work with rate books effectively and efficiently. Key features include: Rate book comparison and merge to create new versions.
